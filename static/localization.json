@@ -25,6 +25,7 @@
     "jp": {
         "this_is_a_hack": "GitHub pagesを使っているので、このローカライゼーションはハックです。",
         "home_title": "バックエンド開発者からただのお調子者になりました。",
+        "home_description": "10歳の時からプログラミングをしています。PHPからPythonに行き、今はJavaScriptにずっといます。いろんなプロジェクトを作りました。その中で、いくつかは完成しました。そして、ほとんどは興味がなくなったので、放棄しました。一番成功したプロジェクトは<a href='https://uwu.so'>画像アップローダー（uwu.so）</a>です。今は<a href='https://mishashto.jp/omo'>omo for artists</a>を友達と一緒に作っています。",
         "age_subtitle": "ミハイル・メリュヒン、20歳、ロシアから、今大阪で住んでいます。",
 
         "skill_title_programming": "プログラミング",
