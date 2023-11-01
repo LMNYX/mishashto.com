@@ -1,0 +1,119 @@
+/* google font yes... */
+@import url('https://api.fonts.coollabs.io/css2?family=Noto+Sans+JP:wght@400;500;600;700;800;900&display=swap');
+
+html, body
+{
+    padding: 0;
+    margin: 0;
+    background: #29222e;
+}
+
+*
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.profile
+{
+    width: 50%;
+    background: #1d1820;
+    padding: 4px;
+    border-radius: 36px 36px 16px 16px;
+}
+
+.screen-centered
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+
+    overflow: auto;
+}
+
+.profile > .header
+{
+    position: relative;
+    width: 100%;
+    height: 96px;
+    background: #110f13;
+    border-radius: 32px 32px 0 0;
+}
+
+.profile > .header > .image
+{
+    width: 76px;
+    height: 76px;
+    border-radius: 9999px;
+    border: 4px solid #1d1820;
+
+    position: absolute;
+    bottom: -25%;
+    left: 32px;
+}
+
+.profile > .information
+{
+    display: block;
+    background: rgba(0,0,0,0.15);
+    margin: 32px;
+    margin-top: 48px;
+    padding: 12px 12px;
+    border-radius: 8px;
+}
+
+.profile > .information > h2
+{
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+}
+.profile > .information > p#actual_name
+{
+    font-weight: 300;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+.profile > .information > hr
+{
+    border: 1px solid rgba(255,255,255,0.05);
+    margin: 8px 0;
+}
+
+.profile > .information > p#about_me_title
+{
+    font-size: 13px;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+
+    user-select: none;
+}
+
+.profile > .information > i.space_breaker
+{
+    display: block;
+    margin: 16px 0;
+}
+
+.profile > .information > i.space_breaker_smaller
+{
+    display: block;
+    margin: 8px 0;
+}
+
+.profile > .information > p#about_me
+{
+    font-size: 13px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+
+    text-align: justify;
+}

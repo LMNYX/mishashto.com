@@ -1,0 +1,47 @@
+{
+    "en": {
+        "this_is_a_hack": "This localization is such a hack, because I'm using GitHub pages.",
+        "home_title": "Previously back-end developer, now just a goofball.",
+        "home_description": "I have been programming ever since I was 10 years old, starting from PHP, travelling to Python and being stuck in JavaScript forever now. I have made different projects, some of which I finished, and most of which I abandoned due to not being interested in them. One of the most successful my projects is <a href='https://uwu.so'>my image uploader (uwu.so)</a>. Currently I'm working on <a href='https://mishashto.jp/omo'>omo for artists</a> with my friend.",
+        "age_subtitle": "Mikhail Meliukhin, 20 years old, from Russia, currently living in Osaka.",
+
+        "skill_title_programming": "Programming",
+        "skill_js": "JavaScript",
+        "skill_sql": "SQL",
+        "skill_python": "Python",
+        "skill_ts": "TypeScript",
+        "skill_cs": "C#",
+        "skill_css": "HTML/CSS",
+        "skill_php": "PHP",
+        "skill_cpp": "C++",
+        "skill_rust": "Rust",
+
+        "skill_title_languages": "Languages",
+        "skill_russian": "Russian",
+        "skill_english": "English",
+        "skill_japanese": "Japanese",
+        "skill_spanish": "Spanish"
+    },
+    "jp": {
+        "this_is_a_hack": "GitHub pagesを使っているので、このローカライゼーションはハックです。",
+        "home_title": "バックエンド開発者からただのお調子者になりました。",
+        "age_subtitle": "ミハイル・メリュヒン、20歳、ロシアから、今大阪で住んでいます。",
+
+        "skill_title_programming": "プログラミング",
+        "skill_js": "JavaScript",
+        "skill_sql": "SQL",
+        "skill_python": "Python",
+        "skill_ts": "TypeScript",
+        "skill_cs": "C#",
+        "skill_css": "HTML/CSS",
+        "skill_php": "PHP",
+        "skill_cpp": "C++",
+        "skill_rust": "Rust",
+
+        "skill_title_languages": "言語",
+        "skill_russian": "ロシア語",
+        "skill_english": "英語",
+        "skill_japanese": "日本語",
+        "skill_spanish": "スペイン語"
+    }
+}
